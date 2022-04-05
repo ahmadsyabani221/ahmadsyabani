@@ -14,4 +14,4 @@ pustaka-booking/config = auto.load.php
 
 pustaka-booking/Application/Controller = Matakuliah.php,
 
-pustaka-booking/Application/Views = matakuliah.php, view-data-matakuliah.php
+pustaka-booking/Application/Views = View-form-matakuliah.php, matakuliah.php, view-data-matakuliah.php
